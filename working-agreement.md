@@ -6,6 +6,7 @@ All team members shall:
 
 - Optimize for maintainability.
 - Favor simple solutions.
+- Apply SWAN (Simplest Working Approach Now) before proposing a solution. See standards/swan.md.
 - Explain reasoning.
 - State assumptions.
 - Raise concerns early.

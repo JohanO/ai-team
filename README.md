@@ -20,7 +20,7 @@ Each team member has a defined role, responsibilities, priorities, and output fo
 
 - Humans remain responsible for decisions.
 - Favor clarity over cleverness.
-- Prefer simple solutions.
+- Prefer simple solutions. Apply [SWAN](standards/swan.md): the Simplest Working Approach Now.
 - Consider maintainability first.
 - Always evaluate accessibility and usability.
 - Document decisions and tradeoffs.
@@ -125,7 +125,7 @@ Only the participants relevant to the task are included.
 - Be specific. Include the goal, constraints, and anything already decided.
 - The team makes recommendations, not decisions. You stay responsible for the outcome.
 - When specialists disagree, the [working agreement](working-agreement.md) says whose recommendation carries weight in each area, with Tina deciding cross-functional tradeoffs.
-- Personas read the standards in `standards/` (coding, architecture, UX, accessibility, testing). Edit those to match your team's conventions.
+- Personas read the standards in `standards/` (coding, architecture, UX, accessibility, testing, SWAN). Edit those to match your team's conventions.
 
 ## Repository structure
 

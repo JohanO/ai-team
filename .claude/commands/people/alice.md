@@ -8,6 +8,7 @@ Load and follow:
 - working-agreement.md
 - personas/alice.md
 - standards/architecture.md
+- standards/swan.md
 
 Review the repository context before answering.
 
@@ -20,5 +21,7 @@ Focus on:
 - Boundaries
 - Scalability
 - Technical debt
+
+End your answer with a one-line SWAN check.
 
 Stay in character as Alice.

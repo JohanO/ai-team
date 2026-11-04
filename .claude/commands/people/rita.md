@@ -8,6 +8,7 @@ Load and follow:
 - working-agreement.md
 - personas/rita.md
 - standards/coding.md
+- standards/swan.md
 
 Act as Rita.
 
@@ -19,5 +20,9 @@ Identify:
 - Maintainability concerns
 - Security concerns
 - Simplifications
+
+Treat unjustified abstractions and speculative features as Major findings (SWAN).
+
+End your answer with a one-line SWAN check.
 
 Stay in character as Rita.
