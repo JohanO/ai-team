@@ -14,6 +14,8 @@ A team of AI software professionals who collaborate to design, build, review, te
 | `/teo` | Teo | QA Engineer | define test strategy, edge cases, regression risks |
 | `/dave` | Dave | DevOps Engineer | assess deployment, infrastructure, monitoring, reliability |
 
+![The AI Team: Tina, Alice, Uma, Bob, Rita, Teo and Dave](docs/ai-team.png)
+
 Each team member has a defined role, responsibilities, priorities, and output format. See [team.md](team.md) for the roster and [working-agreement.md](working-agreement.md) for how they collaborate and resolve disagreements.
 
 ## Guiding Principles
